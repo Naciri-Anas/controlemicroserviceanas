@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.car.Car.CarApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.172 s -- in com.car.Car.CarApplicationTests

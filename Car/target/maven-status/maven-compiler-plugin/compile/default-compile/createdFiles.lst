@@ -1,0 +1,10 @@
+com\car\Car\entities\Client.class
+com\car\Car\models\CarResponse.class
+com\car\Car\CarApplication.class
+com\car\Car\models\CarResponse$CarResponseBuilder.class
+com\car\Car\entities\Car$CarBuilder.class
+com\car\Car\entities\Car.class
+com\car\Car\controllers\CarController.class
+com\car\Car\entities\Client$ClientBuilder.class
+com\car\Car\repositories\CarRepository.class
+com\car\Car\services\CarService.class
